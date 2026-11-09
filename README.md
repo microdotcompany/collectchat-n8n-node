@@ -1,4 +1,4 @@
-# n8n-nodes-collectchat
+# @micro.company/n8n-nodes-collectchat
 
 This is an n8n community node. It lets you start n8n workflows from [Collect.chat](https://collect.chat) chatbot responses.
 
@@ -8,7 +8,7 @@ Collect.chat is a no-code chatbot builder for collecting leads, bookings and sur
 
 ## Installation
 
-Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation and install `n8n-nodes-collectchat`.
+Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation and install `@micro.company/n8n-nodes-collectchat`.
 
 ## Operations
 

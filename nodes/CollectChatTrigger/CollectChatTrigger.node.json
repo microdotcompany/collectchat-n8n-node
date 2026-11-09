@@ -1,5 +1,5 @@
 {
-	"node": "n8n-nodes-collectchat.collectChatTrigger",
+	"node": "@micro.company/n8n-nodes-collectchat.collectChatTrigger",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
 	"categories": ["Communication", "Marketing & Content"],

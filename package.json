@@ -1,5 +1,5 @@
 {
-	"name": "n8n-nodes-collectchat",
+	"name": "@micro.company/n8n-nodes-collectchat",
 	"version": "0.1.0",
 	"description": "Start n8n workflows from Collect.chat chatbot responses",
 	"license": "MIT",
@@ -29,6 +29,9 @@
 	"files": [
 		"dist"
 	],
+	"publishConfig": {
+		"access": "public"
+	},
 	"n8n": {
 		"n8nNodesApiVersion": 1,
 		"strict": true,
