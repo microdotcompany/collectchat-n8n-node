@@ -48,7 +48,10 @@ export class CollectChatTrigger implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Collect.chat Trigger',
 		name: 'collectChatTrigger',
-		icon: 'file:../../icons/collectchat.svg',
+		icon: {
+			light: 'file:../../icons/collectchat.svg',
+			dark: 'file:../../icons/collectchat.dark.svg',
+		},
 		group: ['trigger'],
 		version: 1,
 		subtitle: 'New response',

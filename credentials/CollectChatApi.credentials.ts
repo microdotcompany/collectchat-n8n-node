@@ -11,7 +11,10 @@ export class CollectChatApi implements ICredentialType {
 
 	displayName = 'Collect.chat API';
 
-	icon: Icon = 'file:../icons/collectchat.svg';
+	icon: Icon = {
+		light: 'file:../icons/collectchat.svg',
+		dark: 'file:../icons/collectchat.dark.svg',
+	};
 
 	documentationUrl = 'https://github.com/microdotcompany/collectchat-n8n-node#credentials';
 
